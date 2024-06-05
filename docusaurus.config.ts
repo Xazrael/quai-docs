@@ -111,7 +111,7 @@ const config: Config = {
       	indexName: 'qu',
       },
       colorMode: {
-        defaultMode: 'light',
+        defaultMode: 'dark',
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
